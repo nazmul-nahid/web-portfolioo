@@ -26,3 +26,12 @@ h1{
 section{
     height: 500px;
 }
+.link-button{
+    text-decoration: none;
+    background-color: khaki;
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: orangered;
+    font-weight: 800 ;
+    background-image: linear-gradient(60deg, white,red );
+}
