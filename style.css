@@ -31,7 +31,7 @@ section{
     text-decoration: none;
     background-color: khaki;
     padding: 10px 20px;
-    border-radius: 10px;
+    border-radius: 5px;
     color:azure;
     font-weight: 800 ;
     background-image: linear-gradient(15deg, white,red );
@@ -41,7 +41,7 @@ section{
     background-position: right;
 }
 .single-experience{
-    box-shadow: 10px 10px 50px rgb(128, 128, 128) ;
+    box-shadow: 10px 10px 30px rgb(128, 128, 128) ;
     border-radius: 25px;
     height:80% ;
 }
